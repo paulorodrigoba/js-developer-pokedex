@@ -151,7 +151,7 @@
     transform: scale(1.1);
 }
 .pokemon-card > li {
-    background-image: url(../img/card-bg.png);
+    background-image: url(../imagens/card-bg.png);
     background-position: 105% 130%;
     background-size: 50%;
     background-repeat: no-repeat;
@@ -171,7 +171,7 @@
 /* Estilos para o cabeçalho */
 .header {
     padding: .8rem 2rem 2rem 2rem;
-    background-image: url(../img/card-bg.png);
+    background-image: url(../imagens/card-bg.png);
     background-position: 50% 130%;
     background-size: 20rem;
     background-repeat: no-repeat;
@@ -201,7 +201,7 @@
     height: 100%;
 }
 .liked img {
-    content: url("../img/heartFull.png");
+    content: url("../imagens/heartFull.png");
 }
 
 /* Estilos para imagens */

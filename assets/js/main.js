@@ -160,12 +160,12 @@ function buildModal(pokemon) {
         <div class="buttons">
         <div class="back">
             <button onclick="closeModal(${pokemon.number})">
-                <img src="./assets/img/arrow.png" alt="Voltar">
+                <img src="./assets/imgens/arrow.png" alt="Voltar">
             </button>
         </div>
 
         <button class="heart ${likedParam}" onclick="likedToggle(this, ${pokemon.number})">
-            <img src="./assets/img/heart.png" alt="Coração">
+            <img src="./assets/imgagens/heart.png" alt="Coração">
         </button>
         </div>
         <div class="infos">
